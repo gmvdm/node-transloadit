@@ -7,5 +7,5 @@ describe('Client creation', function() {
         assert.equal(client.authKey, 'AUTH_KEY');
         assert.equal(client.authSecret, 'AUTH_SECRET');
         assert.equal(typeof(client.send), 'function');
-    })
+    });
 });
