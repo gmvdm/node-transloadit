@@ -1,0 +1,27 @@
+{
+    "name": "node-transloadit",
+    "version": "0.0.1",
+    "description": "Node.js client for Transloadit API",
+    "keywords": ["transloadit", "encoding", "transcoding", "video", "audio", "mp3"],
+    "author": "Geoff Wilson <gmwils@gmail.com>",
+    "engines": [ "node" ],
+    "dependencies": {
+        "multiparter": "0.1.4"
+        , "datejs": ""
+    },
+    "devDependencies": {
+        "mocha": ""
+        , "should": "0.3.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/gmwils/node-transloadit.git"
+    },
+    "directories": {
+        "lib": "./lib"
+    },
+    "scripts": {
+        "test": "make test"
+    },
+    "main": "./index"
+}
