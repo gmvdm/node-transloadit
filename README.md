@@ -1,6 +1,6 @@
 # Overview
 
-This is a Node.js client for the Transloadit server, a cloud transcoder for images, video and other content.
+This is a Node.js client for the [Transloadit](http://transloadit.com/) service, a cloud transcoder for images, video and other content.
 
 Before you get started you'll want to 
 [enable API authentication](http://transloadit.com/docs/authentication).
