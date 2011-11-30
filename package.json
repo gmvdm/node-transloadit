@@ -8,6 +8,7 @@
     "dependencies": {
         "multiparter": "0.1.4"
         , "datejs": ""
+        , "underscore": "1.2.1"
     },
     "devDependencies": {
         "mocha": ""

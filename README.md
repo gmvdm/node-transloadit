@@ -17,6 +17,8 @@ var transloadit = require('node-transloadit');
 
 var client = new transloadit('AUTH_KEY', 'AUTH_SECRET');
 
+client.addStream(name, file_name, mime_type, size, stream);
+client.addFile(file_name, file_path);
 client.send(params, ok_callback, fail_callback);
 
 ```
