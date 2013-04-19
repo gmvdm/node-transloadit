@@ -6,7 +6,7 @@
     "author": "Geoff Wilson <gmwils@gmail.com>",
     "engines": [ "node" ],
     "dependencies": {
-        "multiparter": "0.1.4"
+        "request": "~2.16.6"
         , "underscore": "1.2.1"
     },
     "devDependencies": {
