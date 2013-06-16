@@ -53,3 +53,11 @@ client.send(params, function(ok) {
 # Authors
 
 - Geoff Wilson (gmwils@gmail.com)
+
+Contributions from:
+
+- Chase Brammer
+- Greg Allan
+- Helge Skogly Holm
+- Tejesh Mehta
+
