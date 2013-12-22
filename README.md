@@ -57,6 +57,7 @@ client.send(params, function(ok) {
 Contributions from:
 
 - Chase Brammer
+- Christian Maniewski
 - Greg Allan
 - Helge Skogly Holm
 - Tejesh Mehta
