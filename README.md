@@ -1,3 +1,11 @@
+# Deprecated
+
+Please use the official
+[Transloadit Node SDK](https://github.com/transloadit/node-sdk).
+
+No further development is planned on this project.
+
+
 # Overview
 
 This is a Node.js client for the [Transloadit](http://transloadit.com/) service, a cloud transcoder for images, video and other content.
