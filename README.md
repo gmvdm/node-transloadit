@@ -60,7 +60,7 @@ client.send(params, function(ok) {
 
 # Authors
 
-- Geoff Wilson (gmwils@gmail.com)
+- Geoff van der Meer
 
 Contributions from:
 
